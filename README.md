@@ -1,68 +1,51 @@
 # 📊 Gayatri Ecommerce Sales Dashboard
-## Data Science & Analytics Task 1 – Future Interns
 
 ## 📌 Project Overview
-This project focuses on analyzing real-world e-commerce sales data for Gayatri Ecommerce to extract meaningful business insights.Using an interactive Power BI dashboard, this project helps stakeholders track profitability, customer behavior, and regional sales performance.The analysis covers various product categories, payment methods, and geographical distributions.
+This project involves a comprehensive analysis of the Gayatri Ecommerce dataset. The goal was to transform raw sales data into an interactive Power BI dashboard that provides actionable insights into profitability, customer behavior, and regional performance.
 
 ## 🎯 Objectives
-* Identify the most profitable sub-categories (e.g., Printers, Bookcases).
-* Analyze monthly profit trends to identify seasonal growth and fluctuations.
-* Discover top-performing states in India (Maharashtra, Madhya Pradesh, Uttar Pradesh).
-* Evaluate customer purchasing power and Average Order Value (AOV).
-* Understand payment preferences (COD, UPI, Debit Card, etc.) across different categories.
+* *Track Profitability:* Identify which sub-categories (like Printers and Bookcases) drive the highest profit.
+* *Geographic Analysis:* Visualize sales distribution across states like Maharashtra, Madhya Pradesh, and Uttar Pradesh.
+* *Customer Insights:* Highlight top-spending customers (e.g., Harivansh, Madhav).
+* *Payment Trends:* Understand preferred payment methods (COD, UPI, Credit Card).
+* *Trend Monitoring:* Analyze monthly profit fluctuations to identify seasonal peaks.
 
 ## 🛠️ Tools & Technologies
+* *Power BI Desktop:* For data visualization and dashboard creation.
+* *Microsoft Excel:* Initial data source/cleaning.
+* *DAX (Data Analysis Expressions):* Used for creating custom measures like Sum of AOV and Max of Profit.
 
-💻 Power BI Desktop: For data visualization and interactive dashboard creation. 
-📑 Microsoft Excel: For initial data cleaning and preparation. 
-🔢 DAX (Data Analysis Expressions): To create custom measures like Sum of AOV and Max of Profit.
-
-## 📂 Dataset
-
-* 📁 Source: Gayatri Ecommerce Sales Record. 
-* 📊 Key Fields: Order ID, Amount, Profit, Quantity, Category, Sub-Category, Payment Mode, State, and Customer Name. 
-* 📝 Format:Excel.
+## 📂 Dataset Details
+* *Name:* Gayatri Ecommerce Sales Data
+* *Key Attributes:* Order ID, Amount, Profit, Quantity, Category, Sub-Category, Payment Mode, State, and Customer Name.
 
 ## 📊 Dashboard Components
 
-* KPI Cards (Business Snapshot)
-* Max of Profit: 1864 
-* Sum of Amount: 438K 
-* Sum of Quantity: 5615 
-* Sum of AOV: 121.01K
+### 🔑 KPI Cards (Business Snapshot)
+* *Max of Profit:* 1864
+* *Sum of Amount:* 438K
+* *Sum of Quantity:* 5615
+* *Sum of AOV (Average Order Value):* 121.01K
 
-📈 Sum of Profit by Month
-•  Visual: Column Chart 
-• Trend: Shows performance from January to December, with a significant profit peak in November.
+### 📈 Visualizations
+* *Profit by Sub-Category (Bar Chart):* Shows Printers as a top performer.
+* *Quantity by Category (Donut Chart):* Highlights the dominance of the Clothing category (62.62%).
+* *Sum of Profit by Month (Column Chart):* Tracks monthly gains and losses.
+* *Amount by State (Horizontal Bar Chart):* Regional revenue breakdown.
 
-🏆 Profit by Sub-Category
-* Visual: Stacked Bar Chart 
-* Insight: Identifies Printers and Bookcases as the primary drivers of profit.
-
-🥧 Quantity by Category
-* Visual: Pie Chart 
-* Clothing: 62.62% (Highest Volume) 
-* Electronics: 20.55% 
-* Furniture: 16.83%
-
-🍩 Payment Mode by Category
-* Visual: Donut Chart 
-* Insight: Shows COD (44%) as the most preferred payment method, followed by UPI (21%).
-
-🕹️ Interactive Filters (Slicers)
-* State: Filter data by specific regions like Maharashtra, Madhya Pradesh, or Uttar Pradesh.
-* Quarter: Toggle between Qtr 1, Qtr 2, Qtr 3, and Qtr 4 for seasonal analysis.
+### 🎛️ Interactive Filters (Slicers)
+* *State:* Filter data by specific Indian states.
+* *Quarter:* Drill down into Q1, Q2, Q3, or Q4 performance.
 
 ## 💡 Key Insights
+* *Top Category:* Clothing accounts for the largest share of quantity sold (over 62%).
+* *Preferred Payment:* Cash on Delivery (COD) is the most popular payment method at 44%.
+* *Peak Profit:* November showed a significant spike in profit compared to other months.
 
-  * Top Customer: Harivansh is the highest-contributing customer by amount. 
-  * Category Trend: While Clothing has the highest quantity sold, Electronics (Printers) drives significant profit.
-  * Payment Behavior: Cash on Delivery (COD) remains the dominant payment preference for customers.
-  * Regional Leader: Maharashtra stands out as the leading state in terms of total sales amount.
- 
 ## 🚀 Skills Gained
+* Data Cleaning & Modeling.
+* Advanced DAX Calculations.
+* UI/UX Design for Business Dashboards.
 
-* Data Cleaning & Transformation: Using Power Query to prepare datasets. 
-* Advanced DAX: Creating complex measures for business KPIs. 
-* UI/UX Design: Designing user-centric, interactive dashboards. 
-* Business Storytelling: Translating raw data into actionable insights.
+## 📸 Screenshot
+![Gayatri Ecommerce Dashboard](1000076386.jpg)

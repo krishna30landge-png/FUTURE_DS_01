@@ -5,10 +5,10 @@ This project involves a comprehensive analysis of the Gayatri Ecommerce dataset.
 
 ## 🎯 Objectives
  * Track Profitability: Identify which sub-categories (like Printers and Bookcases) drive the highest profit.
-* *Geographic Analysis:* Visualize sales distribution across states like Maharashtra, Madhya Pradesh, and Uttar Pradesh.
-* *Customer Insights:* Highlight top-spending customers (e.g., Harivansh, Madhav).
-* *Payment Trends:* Understand preferred payment methods (COD, UPI, Credit Card).
-* *Trend Monitoring:* Analyze monthly profit fluctuations to identify seasonal peaks.
+ * Geographic Analysis: Visualize sales distribution across states like Maharashtra, Madhya Pradesh, and Uttar Pradesh.
+ * Customer Insights: Highlight top-spending customers (e.g., Harivansh, Madhav).
+ * Payment Trends: Understand preferred payment methods (COD, UPI, Credit Card).
+ * Trend Monitoring: Analyze monthly profit fluctuations to identify seasonal peaks.
 
 ## 🛠️ Tools & Technologies
 * *Power BI Desktop:* For data visualization and dashboard creation.

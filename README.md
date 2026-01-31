@@ -4,7 +4,7 @@
 This project involves a comprehensive analysis of the Gayatri Ecommerce dataset. The goal was to transform raw sales data into an interactive Power BI dashboard that provides actionable insights into profitability, customer behavior, and regional performance.
 
 ## 🎯 Objectives
-* *Track Profitability:* Identify which sub-categories (like Printers and Bookcases) drive the highest profit.
+ *Track Profitability:* Identify which sub-categories (like Printers and Bookcases) drive the highest profit.
 * *Geographic Analysis:* Visualize sales distribution across states like Maharashtra, Madhya Pradesh, and Uttar Pradesh.
 * *Customer Insights:* Highlight top-spending customers (e.g., Harivansh, Madhav).
 * *Payment Trends:* Understand preferred payment methods (COD, UPI, Credit Card).

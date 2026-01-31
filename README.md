@@ -11,36 +11,36 @@ This project involves a comprehensive analysis of the Gayatri Ecommerce dataset.
  * Trend Monitoring: Analyze monthly profit fluctuations to identify seasonal peaks.
 
 ## 🛠️ Tools & Technologies
-* *Power BI Desktop:* For data visualization and dashboard creation.
-* *Excel/csv Dataset:* Initial data source/cleaning.
-* *DAX (Data Analysis Expressions):* Used for creating custom measures like Sum of AOV and Max of Profit.
+* Power BI Desktop: For data visualization and dashboard creation.
+* Excel/csv Dataset: Initial data source/cleaning.
+* DAX (Data Analysis Expressions): Used for creating custom measures like Sum of AOV and Max of Profit.
 
 ## 📂 Dataset Details
-* *Name:* Gayatri Ecommerce Sales Data
-* *Key Attributes:* Order ID, Amount, Profit, Quantity, Category, Sub-Category, Payment Mode, State, and Customer Name.
+* Name: Gayatri Ecommerce Sales Data
+* Key Attributes: Order ID, Amount, Profit, Quantity, Category, Sub-Category, Payment Mode, State, and Customer Name.
 
 ## 📊 Dashboard Components
 
 ### 🔑 KPI Cards (Business Snapshot)
-* *Max of Profit:* 1864
-* *Sum of Amount:* 438K
-* *Sum of Quantity:* 5615
-* *Sum of AOV (Average Order Value):* 121.01K
+* Max of Profit: 1864
+* Sum of Amount: 438K
+* Sum of Quantity: 5615
+* Sum of AOV (Average Order Value): 121.01K
 
 ### 📈 Visualizations
-* *Profit by Sub-Category (Bar Chart):* Shows Printers as a top performer.
-* *Quantity by Category (Donut Chart):* Highlights the dominance of the Clothing category (62.62%).
-* *Sum of Profit by Month (Column Chart):* Tracks monthly gains and losses.
-* *Amount by State (Horizontal Bar Chart):* Regional revenue breakdown.
+* Profit by Sub-Category (Bar Chart): Shows Printers as a top performer.
+* Quantity by Category (Donut Chart): Highlights the dominance of the Clothing category (62.62%).
+* Sum of Profit by Month (Column Chart): Tracks monthly gains and losses.
+* Amount by State (Horizontal Bar Chart): Regional revenue breakdown.
 
 ### 🎛️ Interactive Filters (Slicers)
-* *State:* Filter data by specific Indian states.
-* *Quarter:* Drill down into Q1, Q2, Q3, or Q4 performance.
+* State: Filter data by specific Indian states.
+* Quarter: Drill down into Q1, Q2, Q3, or Q4 performance.
 
 ## 💡 Key Insights
-* *Top Category:* Clothing accounts for the largest share of quantity sold (over 62%).
-* *Preferred Payment:* Cash on Delivery (COD) is the most popular payment method at 44%.
-* *Peak Profit:* November showed a significant spike in profit compared to other months.
+* Top Category: Clothing accounts for the largest share of quantity sold (over 62%).
+* Preferred Payment: Cash on Delivery (COD) is the most popular payment method at 44%.
+* Peak Profit: November showed a significant spike in profit compared to other months.
 
 ## 🚀 Skills Gained
 * Data Cleaning & Modeling.

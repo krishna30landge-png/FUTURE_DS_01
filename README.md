@@ -46,3 +46,6 @@ This project involves a comprehensive analysis of the Gayatri Ecommerce dataset.
 * Data Cleaning & Modeling.
 * Advanced DAX Calculations.
 * UI/UX Design for Business Dashboards.
+
+## 📸 Screenshot
+<img width="1915" height="979" alt="Gayatri Ecommerce sales" src="https://github.com/user-attachments/assets/d830673e-900b-4531-b87b-60410f6be625" />

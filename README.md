@@ -12,7 +12,7 @@ This project involves a comprehensive analysis of the Gayatri Ecommerce dataset.
 
 ## 🛠️ Tools & Technologies
 * *Power BI Desktop:* For data visualization and dashboard creation.
-* *Microsoft Excel:* Initial data source/cleaning.
+* Excel/csv Dataset:* Initial data source/cleaning.
 * *DAX (Data Analysis Expressions):* Used for creating custom measures like Sum of AOV and Max of Profit.
 
 ## 📂 Dataset Details
